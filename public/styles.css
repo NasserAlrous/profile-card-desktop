@@ -1,0 +1,75 @@
+body{
+  background-color: #1aa6b7;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40em;
+  width: 88%;
+  max-height: 500px;
+  overflow: hidden;
+}
+
+.div-p{
+  border-top: solid;
+  border-color: grey;
+  border-width: 0.5px;
+}
+.top-p{
+  font-weight: bold;
+  font-size: 1.15rem;
+  margin-bottom: 5px;
+  margin-top: 20px;
+  white-space: pre;
+  text-align: center;
+}
+
+.bottom-p{
+  font-weight: lighter;
+  color: grey;
+  font-size: 0.75rem;
+  white-space: pre;
+  text-align: center;
+  margin-bottom: 2px;
+}
+
+.top-img{
+  position: relative;
+  right: 600px;
+  bottom: 600px;
+
+}
+
+
+.card{
+  position: relative;
+  bottom: 1800px;
+  left: 200px;
+  text-align: center;
+  background-color: white;
+  opacity: 1;
+}
+
+
+.victor-img{
+  position: absolute;
+  border-radius: 50%;
+  height: 85px;
+  width: 85px;
+  left: 100px;
+  top: 50px;
+  border-style: solid ;
+  border-color: white;
+  margin-bottom: 5px;
+}
+
+
+
+.bottom{
+  position: relative;
+}
+
+.bottom-img {
+  position: relative;
+  bottom: 770px;
+  left: 400px;
+  object-fit: cover;
+}
